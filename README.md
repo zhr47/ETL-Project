@@ -35,7 +35,7 @@ Step 2 - This is already done, only here for completeness. Start with Step 3!
 Step 3 - Creating ETL DB in PGAdmin
   
     In PGAdmin create the database with the name "ETL".
-    In the ETL database that you created open a Query tool and 
+    In the ETL database that you created open a Query tool. 
     Once the Query tool is open run the schema file, file name ETL_schema in the repo folder.
 
 Step 4 - Running Code in Jupyter Notebook
