@@ -27,7 +27,7 @@ Step 1 - Cloning Repo
      
     Clone the ETL-Project Repo on to your own computer with the "git clone <insert repo url>" command.
 
-Step 2 - This is already done, only here for completeness. Start with Step 2!
+Step 2 - This is already done, only here for completeness. Start with Step 3!
   
     First we need to add zip codes to the police data, in a jupyter notebook run Add Zip Codes.ipynb.
     We add the zip codes using the Google API and the latitude and longitude provided in the police data CSV.
